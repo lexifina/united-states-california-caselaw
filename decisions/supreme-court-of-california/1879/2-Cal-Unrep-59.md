@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of California"
+docket: "10,400"
+decided: "1879-10-30"
+citations: ["2 Cal. Unrep. 59"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. SMITH."]
+source_url: "https://static.case.law/cal-unrep/2/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2328808
+cites_cases: ["29 Pac. 709"]
+---
+
+# People v. Smith
+
+## Majority (By the COURT.)
+
+By the COURT.
+The prosecution proved by the testimony of Dr. Tooley that he made a post-mortem examination of the body of Jack Lett; that he found a gunshot wound on his left side, at the third rib; that he found the pistol ball under the skin near the lower point of the right shoulder blade; that he probed the wound and found that the course of the ball was direct, and that the ball had not been deflected from its course. The defendant admitted the killing, but justified on the ground of self-defense. His statements, so far as necessary to be given here, are, that a certain time in the rencounter, while he was going toward his home, he passed near the place where Dave Lett’s rifle was lying, when Jack Lett, who had his own rifle cocked and bearing on the defendant, told the defendant not to touch Dave Lett’s gun, to which the defendant replied that he did not want the gun, and told Jack Lett to let down the hammer of his gun, when Jack Lett said, with an oath, “I will let you down”; that he, the defendant, instantly seized the rifle by the muzzle and turned it one side, when it was discharged; that Jack Lett then reached down to seize Dave Lett’s rifle, still holding his own with one hand, when he, the defendant, drew his pistol and fired the fatal shot.
+The prosecution, manifestly for the purpose of showing that the defendant’s statement was not true and that he was not acting in self-defense, but that he had shot Jack Lett while sitting, asked Dr. Tooley the question: “Prom your examination of the range of the ball, its place of entrance, and the place where you took it out, what, in your opinion, were the relative positions of the deceased and the party who fired the shot?” And the witness answered that the deceased must have been much below the other party; and when asked how much lower, he answered two or three feet lower.
+The subject matter of the inquiry is not one requiring any peculiar scientific study or skill. An ordinary juror is as competent to determine the relative positions of the parties as the most skillful physician or surgeon; and such being the case, the prosecution was not entitled to the opinion of the witness, as a medical expert, as evidence in the case. All the authorities so hold: See 1 Greenl. Ev., see. 440, and cases cited. There is nothing in the nature of the subject of the inquiry which would enable a physician, however skillful, to give an opinion of any greater value than that of a man skillful in any other profession. In other words, the solution of the question does not require professional or scientific skill.
+This question might not be of such vital importance in the case were it not for the fact that much testimony of this character was admitted, to some of which, however, no objection was taken. The physicians who were called as witnesses were permitted to give their opinions in respect to many matters about which the opinions of experts were not admissible. It having been shown that there was a bruise, with clearly defined lines on three sides, on the left shoulder of the deceased, and that there was a small rent—a triangular hole—in the shirt, the witness was asked if the hole was made with the “corner, or side, or the head or pole of the ax,” and he answered: “I don’t know. I suppose it must have been done by the pole of the ax or corner.” He also stated that the blow which, produced the wound must have been given from behind, and that it was given with a small ax, a large hatchet, or a cooper’s hatchet. While the opinion of the witness that the wound was produced by an instrument having a smooth, firm face, and square corners, etc., would be admissible, he should not have been permitted to give his opinion that it was produced by one of the three instruments named, as there are very many instruments with which the bruise as described could have been produced.
+The transcript contains over six hundred pages, the larger portion of which is useless for any conceivable purpose, as illustrating the points taken or that might, with any plausibility, have been taken on the appeal. Pages are taken up with explanations of a diagram and in pointing out and describing matters by reference thereto, and the diagram itself is omitted. All the formal questions propounded to witnesses, as to their resident, their business and their acquaintance with persons and the like, and the answers thereto, are set out at length, although they can have no possible bearing on the questions arising on the appeals. The making of bills of exceptions in that style does not facilitate, but, on the contrary, greatly retards, investigation of causes on appeal.
+'Judgment and order reversed and cause remanded for a new trial. Remittitur forthwith.
