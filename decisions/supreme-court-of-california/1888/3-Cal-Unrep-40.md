@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of California"
+docket: "11,769"
+decided: "1888-12-18"
+citations: ["3 Cal. Unrep. 40", "20 Pac. 708"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. REED."]
+source_url: "https://static.case.law/cal-unrep/3/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2331054
+cites_cases: ["13 Pac. 141", "15 Am. St. Rep. 22", "21 N. Y. 477", "22 Pac. 474", "50 Cal. 242", "70 Cal. 476", "8 L. Ed. 452", "81 Cal. 70", "9 W. Va. 215"]
+---
+
+# People v. Reed
+
+## Majority (SHARPSTEIN, J.)
+
+SHARPSTEIN, J.
+This action is brought to compel the defendants to remove obstructions from an alleged public street in the city of San Jose. The plaintiff alleges and the defendant denies that the land upon which the obstructions are maintained is a part of a public street. Upon that issue the court below found in favor of the plaintiff and against the defendant, and rendered judgment accordingly. From the judgment this appeal is taken. The contention of appellant is that the findings do not justify the judgment. Whether the facts found justify the conclusion that the" land in controversy was dedicated and accepted as a public street is the question to be determined on this appeal. The facts found are substantially as follows:
+In 1862 appellant was the owner of a Certain tract of land in San Jose, and in that year caused the same to be surveyed into streets and blocks, and said blocks to be divided into lots, the streets being designated by names, and the blocks and lots by numbers, on a plat or map prepared by the surveyor. Between the years 1862 and 1877 appellant sold and conveyed to divers persons lands within the tract so surveyed and platted as aforesaid. One of the streets designated on said plat or map was Divine street, running from First street to Terraine street, through North Market and San Pedro streets. But said Divine street, or so much thereof as lies between said North Market and San Pedro streets, has never been used or opened as a public street; and for a period of more than twenty years before the commencement of this action there was a barn and shed thereon, inclosed by a substantial fence, which effectually and completely prevented any use thereof as a public street. There was no formal or other acceptance of said alleged street prior to the passage of an ordinance on the twelfth day of December, 1884, directing the street commissioner of said city to demand the possession of the strip of land claimed to have been dedicated as aforesaid, and to remove all obstructions therefrom, and to throw the same open for public use.
+Are the facts found sufficient to constitute a dedication of the land in controversy to a public use? We think not. In the leading case in the United States on this subject, the court says: “There is no particular form necessary in the dedication of land to public use. All that is required is the assent of the owner of the land, and the fact of its being used for the public purposes intended by the appropriation”: City of Cincinnati v. Lessee of White, 6 Pet. (U. S.) 431, 8 L. Ed. 452. In the case at bar, as before stated, the land never has been used for a public purpose. The supreme court of West Virginia says: “If there has been no use by the public, we may safely adopt the language of the court of appeals of New York, strong as it is, as laying down correctly the law in such case,” i. e.: “The owner’s acts and declarations should be deliberate, unequivocal, and decisive, manifesting a positive and unmistakable intention to permanently abandon his property to the specific public use”: Pierpoint v. Harrisville, 9 W. Va. 215; Holdane v. Trustees, 21 N. Y. 477. In the case at bar the only acts of defendant which tend to show an intention to dedicate the land in controversy are the survey and map on which a street is delineated. The intention not to dedicate is more strongly manifested by keeping the premises inclosed, and maintaining on them substantial buildings. There is a very strong resmblance between this case and the cases of Tate v. Sacramento, 50 Cal. 242, and Hayward v. Manzer, 70 Cal. 476, 13 Pac. 141, in both of which it was held that the facts were insufficient to constitute a dedication. But, conceding that the defendant in 1862 evinced an intention to dedicate the strip of land in controversy as a public street, it is not claimed that there was an acceptance of it until after the lapse of more than twenty years, during all of which time it was in his power to revoke the dedication. The only act claimed to constitute an acceptance is the passage of the ordinance for the opening of the street, which appears to us more like an attempt to take private property for public use without compensation than it does like an acceptance of a street.
+We think the facts found insufficient to constitute a dedication or acceptance, and that if there had been a dedication it was revoked before there was any acceptance of it.
+Judgment reversed, with directions to the court below to enter judgment for defendant upon the findings.
+We concur: Searls, C. J.; McFarland, J.; Paterson, J.
