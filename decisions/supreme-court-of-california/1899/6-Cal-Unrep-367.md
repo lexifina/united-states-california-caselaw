@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of California"
+docket: "Cr. No. 561"
+decided: "1899-12-21"
+citations: ["6 Cal. Unrep. 367", "59 Pac. 576"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. GARCIA."]
+source_url: "https://static.case.law/cal-unrep/6/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477650
+cites_cases: ["30 Pac. 620", "49 Am. Rep. 700", "64 Cal. 157"]
+---
+
+# People v. Garcia
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+By the information in this case T. N. Garcia and two females—Susie Douglass and Rosa Durbin— were jointly accused of grand larceny committed in the stealing, etc., from “the ownership and possession of Thomas Tomlinson,” certain money of the value of $295, the property of said Tomlinson. Garcia was tried separately. He was convicted of the offense charged, and has appealed.
+Appellant demurred to the information on the alleged ground that the same “is indefinite, in that it cannot be ascertained therefrom whether said larceny is from the person or not.” The demurrer was rightly overruled. Indefiniteness of the .information is not a ground for demurrer thereto: Pen. Code, sec. 1004; People v. Markham, 64 Cal. 157, 49 Am. Rep. 700, 30 Pac. 620. Moreover, although the language of the information varied somewhat from the usual formula, yet, since it was alleged that the property stolen was above the value of $50, the offense charged was within the statutory definition of grand larceny, whether the stealing was from the person or not: Pen. Code, sec. 487. So that the information can no more be called indefinite for failing to show whether the money was taken from the person of Tomlin-son, than for failing to show whether it was taken from his house.
+The chief insistence of appellant in this court seems to be that on the trial the court below allowed the district attorney to show (“in devious and improper ways,” it is claimed) the existence of immoral relations between appellant and said Rosa Durbin. Many instances of evidence having this bearing and admitted by the court are specified as error in the brief of appellant. It would not be profitable to discuss them singly. There was evidence tending to prove the following facts, among others: Said Susie Douglass occupied room 47, and said Rosa Durbin occupied room 49, of a certain building in the city of Los Angeles. Tomlinson, a stranger in the city, visited them at said rooms on the evening when the alleged larceny occunred, having then in his possession paper currency to the amount stated in the information. Appellant, Garcia, was also present, and the party passed some hours in carousing together at Tomlinson’s expense. Late in the evening Tomlinson had become grossly intoxicated, and all his money aforesaid was gone. Appellant then caused him to be taken away in a hack, instructing the driver, among other things, to keep silent, and to “take him somewhere and throw him away.” Immediately afterward appellant handed to said Rosa Durbin $80 in bills of like character and denominations with some of the said money of Tomlinson and she secreted them. She testified that appellant took the same from Tomlinson, and there was evidence other than hers that by appellaht’s direction she paid the driver for “hauling” Tomlinson away. Under the circumstances detailed, the close associations existing between Rosa Durbin and defendant, Garcia, are quite apparent. The evidence tended to show that the larceny took place in the Russ House, and probably in room 49. The fact that defendant lived in that room was admissible evidence. And, if it also appeared that Rosa Durbin lived in' the same room, such circumstance possibly was an unfortunate one for "defendant in the eyes of the jury. At the same time, it is a circumstance of which defendant is not entitled to complain. We see nothing objectionable in the cross-examination of defendant’s witnesses who took the stand and testified as to his general reputation for truth, honesty and integrity. The cross-examination of that class of witnesses may take a wide scope.
+Appellant introduced the said driver to Tomlinson as his (appellant’s) coachman, and directed the driver where to go and to throw Tomlinson out. The driver testified that he took him to the place indicated by appellant; that he opened the door of the carriage, and Tomlinson “crawled out.” It is objected that this evidence, and some other of similar character, was improper, because the things done by Tomlinson and the driver were not in the presence of appellant. Conceding the ruling of the court to be error, still it is apparent that the error was entirely harmless.
+The other points made by appellant have, we are disposed to think, as little merit as the one last considered. It seems unnecessary to state them in detail, though we have attentively examined them all. The judgment and order denying a new trial are affirmed.
