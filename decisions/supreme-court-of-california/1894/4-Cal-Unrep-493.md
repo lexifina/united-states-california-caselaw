@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of California"
+docket: "21,031"
+decided: "1894-02-28"
+citations: ["4 Cal. Unrep. 493", "35 Pac. 1022"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. CLEMENT."]
+source_url: "https://static.case.law/cal-unrep/4/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2333609
+cites_cases: ["112 Pac. 478", "14 Cal. App. 449", "56 Cal. 396", "61 Cal. 134"]
+---
+
+# People v. Clement
+
+## Majority (HAYNES, C. PER CURIAM.)
+
+HAYNES, C.
+The people appeal from an order in arrest of judgment. The information contained two counts—the first, for the larceny of a horse, buggy, and harness, and the second count charging an embezzlement of the same property. The defendant demurred to the information upon the ground that it charged more than one offense. The demurrer was overruled and a plea of not guilty entered. After all the evidence had been introduced, and during the argument of the case to the jury, the district attorney, with the consent of the court and without objection from the defendant withdrew the count charging embezzlement, and the jury found defendant “guilty of attempt to commit grand'larceny.’’ The defendant moved for a new trial and his motion was denied. He then moved in arrest of judgment, upon the ground stated in his demurrer, and, this motion being sustained, the people appeal.
+That two distinct offenses are charged in the information has been decided by this court in at least two cases Avhere the facts were the same as here: See People v. De Coursey, 61 Cal. 134, and People v. Quvise, 56 Cal. 396. But appellant contends that the duplicity Avas cured by withdrawing the count charging embezzlement, and we are cited to authorities to show that the duplicity may be cured: (1) by verdict of guilty on one count and not guilty on the other; (2) by a nolle prosequi as to one count; (3) by taking a verdict on one count only; and (4) by election by the prosecuting officer as to which count he will proceed upon. These authorities, however, are under the old procedure, Avhich permitted several counts, and where, upon the face of the indictment, each count charged a distinct offense. But under that procedure the defendant was required to plead to each count, and thus a distinct issue was made upon each, and the jury were required to find on each count as to which there was a plea of not guilty; and, while the district attorney might enter a nolle as to one or more counts, if this were done after the jury was sworn, unless the defendant consented, it was a bar to a further or new prosecution for the offense charged in such count. This, however, did not affect the issues upon other counts; but here the information was framed upon the theory that but one offense was charged, and it was upon that theory that the demurrer was overruled and a single plea of not guilty taken. As the defendant could not be required to plead to two offenses charged in the same information, it cannot be said that issue was joined as to either offense, and withdrawing one of the counts, after the plea, could not cure the defect; for, even if it be conceded that there was a plea to one offense, it could not be said that it applied to one of the offenses rather than the other. If the demurrer had been sustained, as it should have been, and the district attorney had then taken leave to amend by striking out the second count, and the plea had been taken as to the first, the defect would have been cured. The information being bad, under the statute, it could not be amended after the defendant’s plea was taken, without a new arraignment and plea to the amended information.
+It is further contended by appellant that, by moving for a new trial, the defendant waived his right to move in arrest of judgment. This contention cannot be sustained. At common law, it was matter of right, and might be made at any time after conviction and before sentence: 1 Bishop on Criminal Procedure, secs. 1283, 1284. Our Penal Code makes but one restriction. If the defendant failed to demur to the information, he waived his right to move in arrest upon any of the grounds mentioned in section 1004: See Pen. Code, see. 1185. Like a complaint in a civil ease, which states no cause of action, a fatal defect in an indictment may be taken advantage of at any stage of the proceeding, unless the right to do so is restricted by the Penal Code. The code, as well as the common law, permits this motion after a plea of guilty, and even authorizes the court to arrest the judgment on its own view of any of the defects specified in the code without motion: Pen. Code, sec. 1186. We know of no case which sustains appellant’s contention. . 12 American and English Encyclopedia of Law, page 147i, cited by appellant, expressly states that “the motion may be made after the decision of of a motion for a new trial,” though the two eases cited by the author to this proposition were civil cases. The motion in arrest of judgment was property sustained, and the order appealed from should be affirmed.
+We concur: Vanclief, C.; Temple, C.
+PER CURIAM.
+For the reasons given in the foregoing opinion, the order appealed from is affirmed.
