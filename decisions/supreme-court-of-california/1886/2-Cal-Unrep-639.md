@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of California"
+docket: "9719"
+decided: "1886-02-19"
+citations: ["2 Cal. Unrep. 639", "9 Pac. 940"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McKAY v. JOY, Administrator, etc."]
+source_url: "https://static.case.law/cal-unrep/2/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2329133
+cites_cases: ["11 Pac. 832", "34 Cal. 258", "70 Cal, 581"]
+---
+
+# McKay v. Joy
+
+## Majority (BELCHER, C. C.)
+
+BELCHER, C. C.
+Plaintiff and Jarius A. Joy were partners in the business of farming. In January, 1883, Joy died, and on the first day of February the defendant was appointed administrator of his estate. It is alleged in the complaint that at the time of his death there was personal property belonging to the partnership of the value of nearly five hundred dollars, and that the partnership was indebted to the plaintiff for money paid, laid out, and expended for boarding Joy and the hands on the ranch, and for the services of Mrs. McKay in cooking, washing, etc., in a sum exceeding one thousand dollars. It is also alleged that the claim on which this action is brought was duly presented to the defendant, as administrator, for allowance, on the thirtieth day of April, 1883, and was by him rejected on the first day of May, 1883. It appears from the bill of exceptions that in February, 1883, all of such personal property was taken from the possession of the plaintiff and delivered to the defendant by the sheriff, under a writ of replevin, but it does not appear by whom or why the action of replevin was commenced, or what became of it.
+This action was commenced in November, 1883, and the prayer of the complaint is that an accounting be taken of all the said copartnership dealings and transactions from the commencement thereof, and of the money and of the effects received and paid by the plaintiff and the said Jarius A. Joy, respectively, in relation thereto; that the property of the firm be divided between the plaintiff and the estate of the said Joy, according to their respective interests; that the defendant, as administrator, be adjudged to pay the plaintiff the amount which shall appear or be found to be due him after the accounting and full settlement of said partnership business; and for such other and further relief as may be just, with costs of this action.
+When the case was on trial it was admitted by the plaintiff and his counsel in open court that his present cause of action was based upon a claim which had never been presented to the defendant as administrator for allowance. Thereupon counsel for defendant moved the court for a nonsuit and dismissal of the action upon the ground that the claim was one which must be presented for allowance and rejected before any action could be maintained upon it. The court granted the motion, and the appeal is from the judgment of nonsuit.
+There was only one question presented by the appeal, and that is whether the plaintiff could maintain his action without first presenting his claim to the administrator for allowance. As surviving partner the plaintiff had the right to continue in possession of all the property of the partnership, settle its business, pay its debts out of the assets if sufficient, and wind up its affairs: Code Civ. Proe., sec. 1585. If before this was accomplished an action was commenced to take from him the possession of the property, he could have made a successful defense to it, and thus have maintained his rights ; and if, without action, the property was tortiously taken from him, he could have recovered it back.
+Here the action is not for a tortious taking of the property, but for an accounting; and the plaintiff claims that when that accounting is had a balance will be found due him, for which he asks judgment. It is just such an action as is usually resorted to where one partner seeks to have the affairs of the partnership settled up, after its dissolution, and the assets are all in the hands of the defendant. It is based upon a claim made against the estate of the decedent, which may be contingent and uncertain in amount, but clearly arises upon contract.
+Section 1493 of the Code of Civil Procedure provides: 1 ‘ All claims arising upon contracts, whether the same be due, not due, or contingent, must be presented within the time limited m the notice, and any claim not so presented is barred forever.”
+And section 1500 of the same code provides: “No holder of any claim against an estate shall maintain any action thereon unless the claim is first presented to the executor or administrator, except in the following case: An action may be brought by any holder of a mortgage or lien to enforce the sanie against the property of the estate subject thereto, where all recourse against any other property of the estate is expressly waived in the complaint.”
+It is urged by counsel for .appellant that the claim of the plaintiff has never been in condition to be presented to the administrator for allowance, there being no definite or ascertained amount to present, and that there can be none until the settlement of the partnership accounts and effects for which this suit is brought; and he cites Gleason v. White, 34 Cal. 258, in support of his position that the claim of a surviving partner should not and cannot be presented until the partnership affairs are wound up.
+By turning to the case cited, it will be seen that the law at that time provided “If a claim be not presented within ten months after the first publication of notice, it shall be barred forever: provided, if it be not then due, or if it be contingent, it may be presented within ten months after it shall become due or absolute.”
+The court said: “The surviving partner’s claim is contingent, within the meaning of section 130 of the probate act, until the partnership affairs are settled and the claim becomes absolute.”
+The claim was not presented within ten months after the first publication of notice, but it was afterward presented, and the court held it to be in time. Since that case was before the court the law has been changed so as to require all claims, whether due or not due, or contingent, to be presented within the time limited in the notice. The difficulties of presenting a contingent claim are met by the code, which requires only that “the particulars of such claim must be stated”: Code Civ. Proc., sec. 1494. The case is not within the exception provided for in section 1500, above quoted. The action was not brought to enforce a mortgage or lien against the property of the estate.
+We think the judgment should be affirmed.
+Searls, C., and Foote, C., concurred.
+By the COURT.—For the reasons given in the foregoing opinion the judgment is affirmed.
