@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of California"
+docket: "11,749"
+decided: "1889-01-29"
+citations: ["3 Cal. Unrep. 61", "20 Pac. 414"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOLDTREE et al. v. THOMPSON et al."]
+source_url: "https://static.case.law/cal-unrep/3/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2330949
+cites_cases: ["15 Pac. 359", "16 Pac. 315", "21 Pac. 50", "36 Cal. 279", "5 Am. St. Rep. 464", "63 Cal. 457", "74 Cal. 525", "79 Cal. 613"]
+---
+
+# Goldtree v. Thompson
+
+## Majority (FOOTE, C. PER CURIAM.)
+
+FOOTE, C.
+This action was brought by the trustees, under the will of Jonathan Thompson, deceased, against his heirs at law and the legatees under the will, for the purpose of having the terms of that instrument construed, so that the trustees would be free from doubt as to what their duties were with reference to the trusts confided to them. The court below made its decree determining the method in which the trustees should act in obedience to the trusts contained in the will from which this appeal is prosecuted.
+We think the cause should be considered upon appeal, notwithstanding the effort made to dismiss it. The complaint, which seeks to have the trusts contained in the will construed by the court, shows by the averments that, after the trustees had qualified as executors of the will, they entered upon the discharge of their duties as such, “and managed the property of the said deceased in the state of California, paid all the debts of said deceased, and, after due proceedings had in the said estate, all the property thereof was by an order of said probate court, duly made and given on March 13, 1877, distributed to said Patchett, Thompson, and Grierson, as trustees under the said will,” etc. It does not appear from the complaint, however, what the terms of that decree were with reference to the disposition of the trust estate, except that it was distributed to the trustees. What the purport of the order of the court was as to carrying out the trusts contained in the will is not stated. The order or decree of final distribution, having been “duly made and given,” was binding upon the parties in interest here, subject only to be reversed, set aside, or modified on appeal: Code Civ. Proc., sec. 1666; Estate of Garraud, 36 Cal. 279; Estate of Hudson, 63 Cal. 457; In re Rowland, 74 Cal. 525, 5 Am. St. Rep. 464, 16 Pac. 315. No appeal in the matter appears to have been taken. This being so, it is manifest that the rights of the parties must be governed by the decree. In other words, the will is superseded by the decree. It is therefore immaterial to consider what is the proper construction of the will. The only thing upon which the trustees have a right to the opinion of the court is as to their duties under the decree; and the suit is in effect to obtain a construction of the decree. But the record does not show what the decree was, and therefore the court is practically asked to construe a document which is not before it. It cannot undertake to do that; and it results that the complaint does not state facts sufficient to constitute a cause of action. If the fact be that the will was made a part of the decree, that fact should be made to appear, and the whole of the decree should be given. We therefore advise that the judgment be reversed, and the cause remanded, with permission to file an amended complaint.
+We concur: Belcher, C. C.; Hayne, C.
+PER CURIAM.
+For the reasons given in the foregoing opinion the judgment is reversed, and cause remanded, with permission to file an amended complaint.
+
+## Dissent (THORNTON, J., Dissenting.)
+
+THORNTON, J., Dissenting.
+I desire in brief to explain my dissent. The trustees under the will of the testator in this case (plaintiffs herein), under a well-known head of equity-jurisdiction, ask the advice of a court of equity as to the construction of trusts in the will. The property had been distributed by the proper court, under the will, to the plaintiffs as trustees; and it is held in the prevailing opinion that the will is superseded by the decree. How this supersedure is brought about I cannot conceive. The court distributing the property had nothing to do with the construction of the trusts under the will. The question was not before it at all. That court had only to determine in whom the law vested the property under the will. As to what was the meaning or signification of the language declaring the trusts under the will, that court had nothing to say or do. There was no merger in a decree or judgment. Such merger cannot go beyond the matter in issue. If the point or question is not a matter in issue— that is, to be determined in the action by the court in which the suit is pending, and declared by its judgment—the judgment of the court on such point or matter determines nothing which can bind or estop either court or party. And here it clearly appears that the court did determine nothing as to the extent or limits of the trusts. It only distributed the property, as it should have done, to the plaintiffs as trustees. The plaintiffs are held to be trustees by the decree and to be trustees by the will. They are appointed by that instrument. They could not be appointed by the decree. The plaintiffs speak of themselves in the complaint as trustees under the will; and they are so. Because they are recognized in the decree as trustees under the will, they do not cease to be trustees under the will. The will still is the foundation and rule of their duties. They must look to the will as the source of their duties and obligations, and for the extent of such duties and obligations. For these reasons I cannot concur in the judgment of the court dismissing the plaintiffs from the forum, who,’ as trustees, come into court and ask for that which they have a right to ask—the judgment of the court as to the complicated duties which they have to perform.
