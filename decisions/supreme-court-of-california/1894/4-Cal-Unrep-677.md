@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of California"
+docket: "14,924"
+decided: "1894-06-13"
+citations: ["4 Cal. Unrep. 677", "36 Pac. 1009"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DE LONG v. WARREN."]
+source_url: "https://static.case.law/cal-unrep/4/cases/0677-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2333655
+cites_cases: ["25 L. Ed. 336", "36 L. R. A., N. S., 1201", "42 Cal. 435", "56 Am. Rep. 109", "6 Pac. 317", "66 Cal. 492", "99 U. S. 635"]
+---
+
+# De Long v. Warren
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+This action was brought to recover damages caused by the regrading of a street upon which plaintiff is an abutting proprietor. The complaint was not verified. The answer denied all the allegations of the complaint, and averred that the acts complained of consisted in the performance by him of the work of grading Frederick street, between De Long avenue and Ashbury street, in the city and county of San Francisco; that the work was done in a good and workmanlike manner and not otherwise; and that the damage to the property of plaintiff, if any, is by reason of the lot of the plaintiff being below the official grade of said street as established by the board of supervisors. The court found that the plaintiff was the owner of a lot having a frontage of one hundred and eighty-five feet on Frederick street, in the city and county of San Francisco, and extending to the center of said street; that on June 1, 1890, the defendant entered upon said street, and dumped rock, sand, gravel and other material into and upon the street in front of plaintiff’s lot, and'raised the grade five feet above what it was previously; that plaintiff was injured thereby, her grounds lessened in value, etc., to the extent of $350, which injury and damage is peculiar to her property, and does not affect the property of any other landed proprietor, etc.; that defendant is continuing and threatens to continue said trespass, etc., and will do so unless restrained. The court concluded the acts a nuisance, and rendered judgment in favor of plaintiff for $350, and enjoined defendant from further and like acts in the premises. Defendant appealed from the judgment and from an order denying a motion for a new trial.
+We are of opinion the judgment and order appealed from should be affirmed. Conceding, without deciding, that defendant could, without pleading the facts in justification of his acts, show that the grade of Frederick street had been lawfully changed by the board of supervisors, and raised above the former official grade, and that defendant was duly authorized to fill the street to such new grade, and that such filling constituted the grievance of which plaintiff complains, and the fact is still patent that by the alteration of the grade, and filling the street to conform thereto, the property of the plaintiff was damaged, and that such damages were, as found by the court, “peculiar to her property, and do not extend to or affect the property of any other landed proprietor on said street.” Section 1'4 of article 1 of the constitution of California, adopted in 1879, is as follows: “Private property shall not be taken or damaged for public use without just compensation having been first made,” etc. Under our former constitution, which provided that “private property shall not be taken for public use without just compensation,” it was held in this state, in uniformity with the decisions in most other states with like clauses in their constitutions, that persons appointed or authorized by law to make or improve public streets are not answerable for consequential damages, if they act within their jurisdiction, and with care and skill: Shaw v. Crocker, 42 Cal. 435; Northern Transp. Co. v. Chicago, 99 U. S. 635, 25 L. Ed. 336. Under the clause of the present constitution above quoted the rule is reversed, and in Reardon v. City and County of San Francisco, 66 Cal. 492, 56 Am. Rep. 109, 6 Pac. 317, it was held the municipal corporation was liable for such special consequential damages resulting from a street improvement as the adjoining land proprietors suffered over and above the common injury to the other abutters on the street, or the general public. The point decided there is conclusive of the questions here, and need not be elaborated. The other points made are either unimportant or unsupported by the record. The judgment and order appealed from are affirmed.
