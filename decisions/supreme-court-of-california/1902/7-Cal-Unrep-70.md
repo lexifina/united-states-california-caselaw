@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of California"
+docket: "S. F. Nos. 2873, 2874"
+decided: "1902-12-19"
+citations: ["7 Cal. Unrep. 70", "70 Pac. 1079"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re WICKERSHAM’S ESTATE."]
+source_url: "https://static.case.law/cal-unrep/7/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463856
+cites_cases: ["105 Cal. 183", "120 Cal. 89", "138 Cal. 355", "29 Pac. 1109", "33 Cal. 52", "38 Pac. 715", "50 Cal. 328", "52 Pac. 134", "70 Pac. 1076", "91 Am. Dec. 617", "94 Cal. 564"]
+---
+
+# In re Wickersham's Estate
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+These are appeals from orders of the court confirming sales of real estate made by the executors under a power of sale in the will of deceased. They involve the same questions, and are submitted on the same briefs. In what we have to say, the former appeal is directly referred to, but the decision will apply to both. The appellants are the same as the appellants in the case of the same title, S. F. No. 3037, and as the respondents in case S. F. No. 3157, just decided (138 Cal. 355, 70 Pac. 1076); and as in those cases the principal question involved is as to their right to be heard in opposition to the sale. On this question the court held the negative. But the case presented by the appellant’s written opposition to the sale is substantially the same as presented in the former cases, and on the authority of the decision there, and under the provisions of section 1553 of the Code of Civil Procedure, this ruling of the court must be held to be erroneous.
+It is objected, however, by the respondents’ counsel, that the appellant’s opposition does not show that the order was in fact erroneous, which is apparently the ease. But assuming the objection to be material, it is answered by the fact that the executors’ return of sale is itself materially defective in failing to show that the sale was made for the payment of debts, for which alone they were authorized to sell: Sharp v. Loupe, 120 Cal. 89, 52 Pac. 134, 586. The petition does, indeed, allege that the sale was made under the powers of the will, and ordinarily this would be sufficient (Code Civ. Proc., secs. 1561, 1562); but where the property sold is community property, this is not so, for it is a cardinal rule of practice that the decision of the court is, or at least ought to be, merely the application of the law to the facts presented to it, and that, in the absence of facts justifying it, the decision is at least erroneous. But the testator had no power to authorize the sale of his wife’s interest, except for payment of debts (Sharp v. Loupe, supra); and hence, as it appears from the appellant’s allegations that the property sold was community property, the return is insufficient to show the executors’ power to sell, which, to justify the action of the court, should have been made to appear.
+Other points made by respondents seem hardly to require consideration. Thus it is objected that, assuming the correctness of appellant’s contention, the sale could not affect the wife’s interest in the community property. But the contrary is expressly held in the case of Sharp v. Loupe, cited above. The case of King v. Lagrange, 50 Cal. 328, holding the contrary, involved the construction of the law as it stood in 1853, of which it may have been a correct exposition. Otherwise its authority must give way to that of the later decision. Still less can the objection be entertained that, the appeal being from the whole order of sale, and the sale being valid as to the husband’s interest, the order cannot be reversed because the wife’s interest was erroneously included. Anything that may be reviewed on appeal from a part of a judgment may be reviewed also on an appeal from the whole judgment, though the converse is not true: Code Civ. Proc., secs. 153, 940, 956. Again, still less can the point, waived and yet argued in one of the briefs, be maintained that the executors alone could represent the estate of Lydia Wiclrersham in the present proceeding. As to themselves, occupying as they did a position hostile to that estate, they, at least, could not represent it: Townsend v. Tallant, 33 Cal. 52, 91 Am. Dec. 617; Norton v. Walsh, 94 Cal. 564, 29 Pac. 1109. On the other hand, the heirs of a deceased person succeed at once to their respective interests, from which it follows, as in the case of other owners, they are entitled to all actions and defenses necessary to the protection of their property, except those depending on the right of possession; which, as essential to the performance of their functions, are exclusively vested in the executor: Code Civ. Proc., sec. 1452; Bates v. Howard, 105 Cal. 183, 38 Pac. 715.
+For the reasons given, the orders appealed from in the two cases must be reversed, and it is so ordered.
