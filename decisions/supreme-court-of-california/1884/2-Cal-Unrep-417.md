@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of California"
+docket: "8736, 8737"
+decided: "1884-12-11"
+citations: ["2 Cal. Unrep. 417", "5 Pac. 101"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARSHALL v. LIVERMORE SPRING WATER CO."]
+source_url: "https://static.case.law/cal-unrep/2/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2328857
+cites_cases: ["17 Pac. 250", "43 Cal. 463", "53 Cal. 677", "61 Cal. 557", "75 Cal. 479"]
+---
+
+# Marshall v. Livermore Spring Water Co.
+
+## Majority (ROSS, J.)
+
+ROSS, J.
+These appeals were submitted together, and will be so considered. Both are taken from a decree of foreclosure and sale, and from an order refusing a new trial of the action—one being brought by the defendant and the other by the intervener. According to the averments of the complaint in intervention, the liens claimed by the intervener grew out of contract. The agreements out of which they are alleged to have arisen are not in the pleading expressly stated to have been in writing, nor was that necessary. But if by statute they were required to be in writing, the intervener was bound to prove them by the production of the writings or other competent evidence, issue having been taken on the making of such agreements: Vassault v. Edwards, 43 Cal. 463. By section 1971 of the Code of Civil Procedure it is provided:
+“No estate or interest in real property other than for leases for a term not exceeding one year, nor any trust or power over or concerning it, or in any manner relating thereto, can be created, granted, assigned, surrendered, or declared otherwise than by operation of law, or a conveyance or other instrument in writing, subscribed by the party creating, granting, assigning, surrendering, or declaring the same or by his lawful agent thereto authorized by writing.”
+And sections 2922 and 2924 of the Civil Code read:
+”2922. A mortgage can be created, renewed, or extended only by writing executed with the formalities required in the case of a grant of real property.”
+”2924. Every transfer of an interest in property, other than in trust, made only as a security for the performance of another act, is to be deemed a mortgage, except when, in the case of personal property, it is accompanied by actual change of possession, in which case it is deemed a pledge.”
+At the trial the intervener admitted that the alleged agreements were not in writing, but were entirely verbal. They were therefore void under the provisions of the statute, and, being void, the court below rightly found that they were not made: Porter v. Muller, 53 Cal. 677. But in one respect the decree appealed from is erroneous. It directs the sale of a greater interest than the defendant mortgaged. By this we must not be understood as saying that the plaintiff should not, in his complaint, have more specifically described the property mortgaged. On the contrary, whenever there is uncertainty in the description of the mortgaged property the action foreclosing the mortgage is the proper place in which to put an end to the uncertainty, if it can be done: Crosby v. Dowd, 61 Cal. 557. But, of course, the decree cannot embrace property not included in the mortgage. Here the defendant mortgaged: First, ” all of its interest, claim, demand, and property of, in, and to the waters of the creek known as Mocho, and all easements, rights of way, dams, ditches, reservoirs, pipes, flumes, gates, faucets, connections, and appurtenances used in appropriating said' water, or in conducting the same to said town of Livermore or elsewhere”; second, ”and also all the water, water rights, pipes, flumes, lands, rights of way, and property of every description now owned or used (that is to say, at the time of the execution of the mortgage owned or used) by said mortgagor in, belonging to, or in connection with, its waterworks in the town of Livermore, in said' Alamecta county, and in or in connection with or belonging to the Las Poeitas springs and creek, in said Murray township ’ ’; third, “and also all the lands and improvements which said mortgagor now (that is to say, at the time of the execution of the mortgage) owns on the elevated ground around or in close proximity to its reservoirs used in appropriating said waters of Las Poeitas springs and creek.”
+In making its decree the court below properly limited the sale it directed to be made of the property thirdly described in the mortgage, to such of said property as the mortgagor owned at the time of the execution of the mortgage; but, with respect to the property secondly described in the mortgage, the court decreed a sale of ‘ ‘ all the waters, water rights, pipes, flumes, lands, rights of way, and property of every description at the date of said mortgage, or since, owned or used by the mortgagor in, belonging to, or in connection with, its said waterworks in the town of Livermore, in said Alameda county, and in or in connection with or belonging to Las Poeitas creek and springs, in said Murray township.” In directing a sale of such property, coming within the last above description, as the mortgagor acquired since the execution of the mortgage, the court manifestly went beyond the limits of the mortgage. In that respect the decree may, and it is claimed by appellants that in fact it does, include property acquired by the defendant subsequent to the mortgage, and which does not fall within either of the descriptions firstly and thirdly given in the mortgage. If we could see clearly that the rights of the respective parties could be protected by simply directing a modification of the decree to accord with the views above expressed, we would remand the cause for that purpose; but, as the case is presented, we are of opinion that the safest way is to direct a new trial.
+Judgment and order reversed, and cause remanded for a new trial.
+I concur: McKinstry, J.
+I concur in the judgment: McKee, J.
