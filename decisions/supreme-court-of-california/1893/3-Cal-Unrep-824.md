@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of California"
+docket: "19,010"
+decided: "1893-03-06"
+citations: ["3 Cal. Unrep. 824", "32 Pac. 525"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WEYERS v. ESPITTALIER et al."]
+source_url: "https://static.case.law/cal-unrep/3/cases/0824-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2331094
+---
+
+# Weyers v. Espittalier
+
+## Majority (TEMPLE, C. PER CURIAM.)
+
+TEMPLE, C.
+Appeal from the judgment and an order refusing a new trial. This action was brought to enjoin a sale under an execution against one Elise Deste, the daughter and grantor of the plaintiff. Espittalier, the judgment creditor, is made defendant with the sheriff. The answer justifies the attempted sale on the ground that the deed to plaintiff was without consideration, and was made to hinder, delay, and defraud the creditors of Elise Deste, and particularly the defendant Espittalier. The case was tried with a jury, which rendered a verdict in favor of the plaintiff. The question raised on the motion for a new trial is as to the sufficiency of the evidence to sustain the verdict. There was evidence which plainly tended to sustain it in every respect. Appellants contend that the evidence shows a state of things which would either make the plaintiff, her son in law, and her daughter partners in the transactions in which the indebtedness of Elise Deste was incurred, or that Elise Deste transacted the business for and as the general agent of plaintiff, and therefore plaintiff is herself directly responsible for the indebtedness. Conceding that such an issue is tendered in the answer, and that such facts would constitute a defense to this action, the most that can be claimed for it is that there is much evidence which tends to support such defense. But there is also much which tends to support the other theory, that a large portion of the money invested by Elise Deste was received from her mother as a loan, and that the investments were made by the daughter in her own name and on her own account. The jury found in favor of the latter hypothesis, and we cannot disturb the verdict. A careful examination of the alleged errors occurring at the trial discloses none injurious to appellant. The judgment and order should be affirmed.
+I concur: Belcher, C.
+PER CURIAM.
+For the reasons given in the foregoing opinion the judgment and order are affirmed.
