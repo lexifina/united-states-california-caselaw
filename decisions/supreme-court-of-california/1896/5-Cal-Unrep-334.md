@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of California"
+docket: "Sac. No. 75"
+decided: "1896-04-28"
+citations: ["5 Cal. Unrep. 334", "44 Pac. 793"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TULARE BUILDING & LOAN ASSN. v. COLEMAN et al."]
+source_url: "https://static.case.law/cal-unrep/5/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473426
+---
+
+# Tulare Building & Loan Ass'n v. Coleman
+
+## Majority (VANCLIEF, C. PER CURIAM.)
+
+VANCLIEF, C.
+Action to foreclose a mortgage executed by the defendant Henry E. Coleman, to secure his promissory note for the sum of $2,000, and interest at eight per cent per flTirmm, payable to the plaintiff (a corporation) eight years after date, but provided that, if default be made in the payment of any part of said interest as it became due and payable, then the principal and interest should immediately become due at the option of the holder, and that such option might be exercised without notice. The complaint was duly verified. On March 18, 1895, the defendants appeared, and filed a general demurrer to the complaint. The demurrer was overruled on April 12, 1895, and defendants were allowed fifteen days to answer. On April 27, 1895, the court, on motion of defendants, granted five days’ additional time in which to answer. On May 2, 1895, the defendants served and filed an unverified answer. Thereafter, on due notice, plaintiff’s attorneys moved the court to strike out the answer, on the ground that it was not verified. Thereupon defendants' attorneys consented to the striking out of the answer, and at the same time produced and asked leave to file what they denominated an ‘ ‘ amended answer, ’ ’ which purported to have been verified by the defendant Witkowski, on April 3, 1895, twenty-four days prior to the filing of the unverified answer. The so-called “amended answer” was an exact copy of the unverified answer which had been filed, except that the word “amended” was added thereto. The court ordered the unverified answer to be struck out, but denied leave to file the proffered amended answer, on the ground of inexcusable negligence on the part of defendants, there being no showing nor pretense of any excuse for not having filed the verified answer, instead of the other, in the first instance. After hearing evidence for plaintiff, the court gave judgment in its favor, from which the defendants bring this appeal on a bill of exceptions, and contend that the court erred in denying their motion for leave to file the so-called “amended answer.”
+For the following reasons, I think the court did not exceed a proper exercise of its discretionary power in denying the motion:
+1. By what the court was justified in regarding as mere dilatory tactics, the defendants had secured a delay of a month and a half.
+2. The proffered amended answer appears to have been verified in San Francisco on April 3, 1895, and there is no pretense that it might not have been filed long before the unverified answer was filed; and that it was not so filed, instead of the latter, is evidence of a degree of negligence indicating bad faith.
+3. Witkowski, who verified the answer, was made a party defendant, on the ground that he had or claimed some interest or claim upon the mortgaged premises; but in the answer he makes no claim of any interest in or lien upon the premises, and no reason appears why the answer was not verified by an interested party.
+4. The proffered verified answer does not deny the execution of the note or mortgage, nor that defendant had failed to pay the interest, installments and fines, as alleged in the complaint, but alleges as an affirmative defense that plaintiff had agreed with defendants to collect certain rent to become due to them “upon property situated in the city of Tulare, California, and to credit the amount of said rents” upon the interest and installments as they became due; but that plaintiff “neglected and failed to collect said rents, and neglected to apply any of the same” as per agreement; that, at all times after making said agreement, “defendants were out of said county of Tulare, and at a great distance from the city of Tulare,” and were not notified by plaintiff that it had neglected to collect and apply said rents; and “that, by reason of said plaintiff’s neglect to perform its contract herein mentioned, these defendants have been damaged in the sum of $231.07”; and that defendant Coleman “is entitled to have said amount of $231.07 offset against any claim of said plaintiff against him for any fines and interest that plaintiff may be entitled to charge upon said sum of $92.03 of installments and interest, as aforesaid.”
+The leased property from which rents were to be collected by plaintiff is net described except as above; nor are any lessees named; nor is it alleged that the lessees were either able or willing to pay rent, nor that Coleman had not collected the rent before the commencement of this action; nor is it alleged where or how far distant from the city of Tulare the defendants were during the time the rent should have been collected, nor even that they did not have notice during their absence that the rents were not paid. It is not claimed that the judgment is for a greater amount than was due and unpaid according to the terms and legal effect of the note and mortgage. Therefore, besides the inexcusable negligence, it is too plain to admit of argument that the proffered answer stated no defense, and that the court did not err in denying leave to file it. It follows that the judgment should be affirmed.
+¡We concur: Belcher, C.; Britt, 0.
+PER CURIAM.
+For the reasons given in the foregoing (pinion the judgment is affirmed.
