@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of California"
+docket: "13,320"
+decided: "1892-01-28"
+citations: ["3 Cal. Unrep. 475", "28 Pac. 806"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re KREISS."]
+source_url: "https://static.case.law/cal-unrep/3/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2331115
+cites_cases: ["31 Pac. 740", "96 Cal. 617"]
+---
+
+# In re Kreiss
+
+## Majority (TEMPLE, C. PER CURIAM.)
+
+TEMPLE, C.
+This appeal is from an order perpetually staying a judgment of award and all proceedings under it. It appears that a motion was made by the respondent to vacate the award. The learned judge of the court concluded that the submission to arbitration was not a statutory submission, and therefore refused to entertain the motion, but ordered the judgment entered in form, and all proceedings under it to be perpetually stayed. This appeal is from that order, and there is no bill of exceptions, nor are the papers used on the hearing identified. It is claimed that the order is erroneous on various grounds, and among them, that there was no notice or showing, or even motion, before the court at the time. But, in the absence of a bill of exceptions, how do we know that? The order does not show this. On the contrary, it seems to imply that some showing was made. It is as follows: “In this cause, the motion of L. Kreiss, one of the parties above named, made June 11, A. D. 1888, for the purpose of vacating and setting aside the award in this proceeding, coming on regularly this day for hearing, the said L. Kreiss being represented by Henry E. Highton, Esq., his attorney and A. P. Hotaling, the remaining party to said alleged arbitration, being represented by A. N. Drown, Esq., his attorney, it appearing to the court that the submission to arbitration filed herein on April 17, A. D. 1888, is not a statutory submission under title 10, sections 1281 to 1290, inclusive, of the Code of Civil Procedure of this state, it is hereby ordered that upon this ground, and for this cause, and for want of jurisdiction thereof, the said motion is now dismissed; and it is further ordered that the judgment entered in form in the said proceeding by the clerk of this court be, and all proceedings thereunder be, and the same hereby are, perpetually stayed. Affidavits of A. P. Hotaling, M. E. Knoph, Augustus Laver, and R. Blum read and filed in opposition to said motion.” The appellant claims that this contains two orders. How do we know, then, that there was not a motion and showing, in pursuance of which the second order was made, from which he appeals ? However, we think the proper construction of the whole order is that the court denied the specific relief asked for by the moving party, and, in lieu of it made the order of which appellant now complains. The statement that the motion is dismissed means no more, under the circumstances, than that the application is denied. The judge, therefore, had before him whatever showing was made on the motion and both parties were present in court. It may be conceded that the order of-perpetual stay cannot be justified unless it appeared to the court that the award was wholly void as a judgment. For instance, it may have been made to appear affirmatively that the affidavit and notice required by section 1286, Code of Civil Procedure, were not filed or given. The clerk is a mere ministerial officer, and could enter such a judgment only when the necessary showing was made, and presumptions, if they are to be indulged in favor of such a judgment, may have been overcome. As the respondent’s only remedy was by motion made before the entry of the judgment, this notice was of vital importance. Unless given or waived, the judgment would not be valid. It was not waived in the submission— conceding that it could have been—but the importance of the notice was emphasized by the stipulation that, when entered upon the judgment-book, the parties would ask for no reduction, new trial, or appeal. In the transcript there is copied what purports to be a judgment-roll, and among the papers so designated is an affidavit of respondent which seems to show that he had some kind of notice. If there be any such thing as a judgment-roll in cases of arbitration— which is not conceded—we still know of no rule which would make this affidavit, made to obtain a stay of proceedings, a part of it. And the same is true of respondent’s exceptions, which purport to be a part of his affidavit. We think there can be no doubt of the propriety of an order directing the clerk not to issue execution upon what in form may appear to be a judgment, but which in fact is void. We think the order should be affirmed.
+We concur: Belcher, C.; Vanclief, C.
+PER CURIAM.
+For the reasons given in the foregoing opinion the order is affirmed.
