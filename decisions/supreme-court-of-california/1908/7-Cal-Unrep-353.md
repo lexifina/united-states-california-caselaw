@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of California"
+decided: "1908-04-25"
+citations: ["7 Cal. Unrep. 353", "96 Pac. 329"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GIANELLA v. GRAY et al."]
+source_url: "https://static.case.law/cal-unrep/7/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465374
+cites_cases: ["5 Cal. App. 83", "89 Pac. 844"]
+---
+
+# Gianella v. Gray
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+Thisis an action to restrain defendants from trespassing upon plaintiff’s land. The amended complaint alleges plaintiff’s right to the exclusive use and -occupation of certain land, particularly described in the complaint, bordering on the Sacramento river at a point where the same is navigable, and that his said right extends to low-water mark of said river; that defendants heretofore “have entered upon the above-described land, though prohibited so to do by the agent and attorney of the plaintiff, have taken down fences, and camped and occupied said land above low-water mark of said Sacramento river, and that they, and each of them, threaten to remain and use said land and premises, in violation of the rights of the plaintiff, ami have built and are maintaining camp and camps thereon, and have taken down fences thereon, -and have threatened so to do, and have taken a horse across said land, and have said horse now on said land, above low-water mark -of said Sacramento river, and have crossed through and over, and have left gates open,-and are maintaining and making preparations to remain on said above-described land above low-water mark of said Sacramento river, in violation of the rights of plaintiff herein; that owing to the great number of defendants, and their constant, continuous, and repeated acts of trespass, the law furnishes plaintiff no adequate protection through the ordinary process, and he is compelled to resort to equity for relief, so as to avoid the bringing of a multiplicity of actions.” Insolvency of defendants is alleged, and it is alleged that, “unless restrained.by injunction, the defendants will enter upon, use, and occupy said lands and premises in violation of the rights of plaintiff, causing irreparable injury to said lands, and to the property of the plaintiff used in connection with said lands, and compel plaintiff to bring a multiplicity of actions against said defendants, and each of said defendants.” It also appears from the complaint, by rather vague averments, that the lowlands lying immediately along the river bank overflow in times of high water, and are separated from the higher land by fences, and that in times of high water plaintiff’s stock would drown unless removed to said higher land. The court made and entered its order, restraining defendants from committing the alleged acts of trespass, on March 14, 1907, and on the same day entered its judgment to like effect. The amended complaint was filed April 11th, 1907, and on the 12th defendants filed a general demurrer thereto, and on the same day served and filed a notice of motion to dissolve said injunction on the grounds set forth in the demurrer. On April 15th the court overruled the demurrer, with twenty days’ leave to answer, and on April 24th the court denied defendants’ motion to dissolve the injunction. Defendants made no answer, and the appeal is from this latter order. Appellants cite Bishop v. Owens, 5 Cal. App. 83, 89 Pac. 844, and other cases in which the principles governing this class iff cases are fully stated and applied; and it is claimed that, when these principles are properly considered, the complaint will be found to be wholly insufficient. It must be conceded that the complaint is not only inartifieially drawn, but is not clear and distinct in its averments from which the court must determine whether the threatened injury complained of is likely to be irreparable, or that an adequate remedy at law is not available to plaintiff. A special demurrer pointing out the deficiencies in the complaint would doubtless have been sustained, but we cannot say that, upon general demurrer, it should be held to be -wholly insufficient. For like reason we cannot say that the injunction is without support in the complaint.
+The order denying the motion to dissolve the injunction is affirmed.
+We concur: Hart, J.; Burnett, J.
