@@ -2,7 +2,7 @@
 court: "Supreme Court of California"
 docket: "4858"
 decided: "1876-07-17"
-citations: ["2 Cal. Unrep. 13", "2 Cal. Unrep. 19"]
+citations: ["2 Cal. Unrep. 13"]
 reporter: "cal-unrep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
