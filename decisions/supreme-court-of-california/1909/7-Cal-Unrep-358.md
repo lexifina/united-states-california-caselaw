@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of California"
+docket: "L. A. No. 2151"
+decided: "1909-01-07"
+citations: ["7 Cal. Unrep. 358", "99 Pac. 482"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SOMERS v. McMORDIE et al."]
+source_url: "https://static.case.law/cal-unrep/7/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466110
+cites_cases: ["109 Ill. 46", "30 Ala. 245"]
+---
+
+# Somers v. McMordie
+
+## Majority (MELVIN, J.)
+
+MELVIN, J.
+Suit was commenced by William F. Somers to quiet his title to the northeast quarter of the northeast quarter of section 27, township 3 south, range 14 west, San Bernardino meridian, containing, according to the allegations of the complaint, forty acres. Mrs. McMordie, the respondent here, answered, admitting the title of Somers to all of said land, except a small portion thereof, and asked to have her title quieted as against Somers to lot 1, section 27, township 3 south, range 14 west, San Bernardino meridian, which was described also in her pleadings by metes and bounds. Before trial plaintiff dismissed as to the fictitious defendants.
+There is a statement of stipulated facts wherein, among other things, it is agreed by these litigants that both parties derive title to their respective lands through patents issued ■by the state of California under indemnity lists duly approved and certified by the Secretary of the Interior; that the government plat of the survey of said lands shows Somers’ land as containing forty acres and the McMordie lot as having an area of twenty-one and thirty-eight hundredths acres; that there is a shortage of four and forty-four hundredths acres in the two tracts; that this deficiency was imposed in the judgment upon the parties hereto according to their several proportions of the whole acreage embraced in the boundaries of the two tracts, the plaintiff Somers being given by this method thirty-six and ninety-one hundredths acres and the defendant McMordie twenty and three hundredths acres; and that the sole question on the appeal from the order denying the motion for a new trial is whether or not the court erred in apportioning said land as set forth in the judgment and decree. It is also agreed that the measurements of the exterior lines of the two tracts are as indicated upon a certain plat attached to the stipulation. Appellant asserts that the cause was decided by the learned judge of the superior court in an effort to comply with section 2395 of the United States Revised Statutes (6 Fed. Stats. Ann. 363; U. S. Comp. Stats. 1901, p. 1471), and the rule of “proportionate measurement” as used in the circular of instructions in relation to lost or obliterated corners, approved by the Secretary of the Interior October 16, 1896 (23 Land Dec. Dep. Int. 361), and respondent’s brief contains an assertion that the court was governed by sections 2395, 2396, 2397 of the United States Revised Statutes (6 Fed. Stats. Ann. 363-369, U. S. Comp. Stats. of 1901, pp. 1471-1473), and the circular of the Secretary of the Interior mentioned above. These sections have reference to the rules to be followed where the corners have been lost and in originally locating corners and lines. The term “proportionate measurement,” as used in the circular, is for the guidance of surveyors who follow the field-notes in the surveyor general’s office in relocating lines and corners, and refers to a measurement “having the same ratio to that recorded in the original field-notes as the length of chain used in the new measurement has to the length of chain used in the original survey, assuming the original and new measurements have been correctly made.” There is no provision, either in the cited sections or in the circular, for a “proportionate measurement” based upon the deficiency in acreage of adjoining parcels of land. It has been held that a deficiency in the contents of the section must as between a quarter-quarter section and a residuary fraction fall entirely upon the latter, and cannot be apportioned between them: Wharton v. Littlefield, 30 Ala. 245. But whether we conform to that doctrine or not, we find no warrant for the application of the principle here sought to be invoked, that the deficiency in acreage must be apportioned between the lands of Somers and McMordie. Here, there is no question as to the establishment of a lost corner. The section corner is shown on the plat, as is also the south line of plaintiff’s property. The exact boundaries must prevail as shown on the government plat, and they will control a further description by quantity: Wadhams v. Swan, 109 Ill. 46.
+The cause is remanded, with instructions that appellant’s motion be granted.
+We concur: Lorigan, J.; Henshaw, J.
