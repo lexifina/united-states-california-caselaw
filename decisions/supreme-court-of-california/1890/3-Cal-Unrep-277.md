@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of California"
+docket: "11,705"
+decided: "1890-06-12"
+citations: ["3 Cal. Unrep. 277", "24 Pac. 301"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOWRY v. HENEY."]
+source_url: "https://static.case.law/cal-unrep/3/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2330984
+cites_cases: ["15 Nev. 394", "17 Pac. 199", "25 Pac. 17", "60 Cal. 617", "75 Cal. 261", "86 Cal. 475"]
+---
+
+# Mowry v. Heney
+
+## Majority (McFARLAND, J.)
+
+McFARLAND, J.
+Action to quiet title to certain real property situated in San Francisco. Judgment went for defendant, from which and from an order denying a motion for a new trial plaintiff appeals.. Respondent claims title to the premises in contest under sheriff’s sale and deed made under an execution issued upon a judgment against one Laura A. Mowry, who is the mother of plaintiff. This judgment was rendered against Laura A. Mowry on an undertaking on appeal executed by her on an appeal taken from the superior court to this court by the defendants in a certain action entitled Heney et al. v. Alpers et al. The undertaking contained the covenants provided for in section 942 of the Code of Civil Procedure. The judgment in Heney et al. v. Alpers et al.—which was for $1,344.18, with interest and costs—was affirmed by this court on March 28, 1883, and the remittitur was filed in the superior court May 3, 1883. The judgment on the undertaking was rendered on August 2, 1883—more than thirty days after the filing of the remittitur. It is admitted for the purposes of this present appeal that the judgment against Laura A. Mowry on the undertaking on appeal was rendered without any notice of the application for judgment having been served upon or given her; and it is contended by appellant that, because such notice was not given, the judgment was void. Whether or not, for that reason, the said judgment was void is the main question in this case.
+We are satisfied that a judgment on an undertaking on appeal, given under section 942 of the Code of Civil Procedure, may be properly rendered against the sureties without any further notice. Such a judgment is simply in accordance with their express contract. The language of their obligation is that, “if the appellant does not make such payment within thirty days after the filing of the remittitur from the supreme court in the court from which the appeal is taken, judgment may be entered, on motion of the respondent, in his- favor against the sureties, for such amount, together with interest,” etc. This is an express waiver of any further notice, a direct assumption of the result of the appeal, and a disclaimer of the necessity of any further litigation, on the subject. The contract of the surety is not that he “will pay” or "will be liable” if his principal fails, but that judgment may be entered against him, on motion, for the amount which has already been adjudicated to be due from his principal. The judgment to be entered against him is nothing more than the natural and anticipated consequence of his own express undertaking. The case of Coscia v. Kyle, 15 Nev. 394, has no bearing on the case at bar. There, no contract relation whatever was involved.
+Moreover, we think that the point under discussion should be taken as settled against appellant’s contention by the case of Meredith v. Association, 60 Cal. 617. The very point was elaborately discussed by counsel in that case, and exhaustively considered in the opinion of the court. It is contended that the Meredith case should not be considered as binding authority, because the point was not absolutely necessary to the decision of that case. Strictly speaking, that may be so; but, as nearly as the whole force of the opinion in that case was expended on the point here involved, it is certainly entitled to great consideration as authority. Moreover, we think that the views there expressed are correct. As said in that case: “There is not in this mode of procedure anything which prejudices the rights of the parties to the action; for if, in fact, the original judgment was paid, although not satisfied of record, the parties have their remedy, under section 675 of the Code of Civil Procedure, to have satisfaction entered, and, for that purpose, to recall any execution which may have been issued against them; or they may have the judgment vacated or annulled.” On this collateral attack the appellant has no standing. The case of Davis v. Heimbach, 75 Cal. 261, 17 Pac. 199, was about an entirely different section of the code, and cannot be taken as weakening the doctrine of the Meredith case.
+The finding of the court that the deeds from Laura A. Mowry to plaintiff were not intended to be operative unless in the event of her death from the extreme illness from which she then suffered, was, we think, fully sustained by the evidence, and correct. The objection to the judgment-roll is not tenable. It contained all that is required to be in it. We see no material insufficiency or defect in the findings, nor do we perceive any other material error.
+Judgment and order affirmed.
+We concur: Paterson, J.; Sharpstein, J.; Pox, J.
