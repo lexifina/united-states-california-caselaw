@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of California"
+docket: "L. A. No. 884"
+decided: "1901-06-26"
+citations: ["6 Cal. Unrep. 703", "65 Pac. 567"]
+reporter: "cal-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["READ v. SAN DIEGO UNION COMPANY et al."]
+source_url: "https://static.case.law/cal-unrep/6/cases/0703-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477779
+cites_cases: ["112 Pac. 1105", "14 Cal. App. 704", "23 Pac. 120", "6 Cal. App. 433", "62 Cal. 318", "67 Pac. 1", "82 Cal. 628", "92 Pac. 332"]
+---
+
+# Read v. San Diego Union Co.
+
+## Majority (HAYNES, C. PER CURIAM.)
+
+HAYNES, C.
+This action was brought in the county of Los Angeles; in which defendants Bowker and Chandler reside. The defendant the San Diego Union Company, a corporation, has its legal residence and. place of business in the county of San Diego, and in due time moved the court for an order changing the place of trial to that county. Said motion was denied, and said corporation appeals from the order denying said motion.
+Said corporation, in 1891, and ever since, has been the publisher of a daily newspaper, and in said year entered into a contract with one Whitehouse, whereby it sold the entire city circulation of said newspaper to him upon terms therein specified. In 1892, Whitehouse sold and assigned said contract to defendants Bowker and Chandler, and they afterward sold and assigned to the plaintiff, T. J. Read, an undivided one-half interest therein. Each of these transfers was formally approved and accepted by the corporation. On July 29, 1899, said corporation served notice upon said Read, Bowker and Chandler that it rescinded said contract, and would not, after July 31, 1899, furnish them any newspapers for distribution, claiming the right to do so under the terms of said contract, the particulars of which need not be stated, and Read thereupon brought suit against said corporation to recover damages for breach of said contract, and made his co-contractors, Bowker and Chandler, parties defendant with said corporation. Said contract is set out in the complaint, and the various transfers thereof are alleged, clearly showing that Bowker and Chandler are co-contractors with the plaintiff in the contract alleged to have been wrongfully canceled or rescinded by the plaintiff, and, for aught that appears, equally interested with him in the recovery of damages from the corporation for the alleged breach thereof. It is not alleged that they refused to be joined as coplaintiffs with Read, or that their interests were adverse, nor were any facts alleged showing a right of recovery against them, unless it can be inferred from the general allegation that he, the plaintiff, has been prevented from carrying out his contract by the “defendants herein,” in that defendants have “declined and refused to furnish and supply the plaintiff or his agents any newspapers for distribution.” There is no allegation that Bowker and Chandler, his co-contractors, were in any manner interested with said corporation, or were under any obligation to furnish newspapers to the plaintiff for distribution; and the contract set out in the complaint shows conclusively that they were not. The defendants Bowker and Chandler answered, denying that they, or either of them, had at any time refused to permit plaintiff to carry out or perform said contract. The motion of the corporation to change the place of trial was based upon the pleadings and the affidavit of its president, to which were attached certain exhibits, and made part thereof, one of which was a communication signed by Read, Bowker and Chandler, uniting, as parties to said contract, in a demand upon said corporation to continue to furnish to them and their authorized agents a sufficient number of copies of its paper to supply their subscribers, and notifying it that upon its refusal to do so they would hold the corporation and its stockholders liable for all loss. Affidavits were filed in opposition to the motion, but these were confined to the question of residence, and contained no statement tending to show any reason why Bowker and Chandler were not joined as plaintiffs. We think it clear that Bowker and Chandler were made defendants for the sole purpose of preventing a change of the place of trial to the county of San Diego, in which the corporation had its legal residence. The joinder of resident parties as defendants against whom no cause of action is stated does not deprive the real defendant of his right to have the cause transferred to the county of his residence for trial: Sayward v. Houghton, 82 Cal. 628, 23 Pac. 120; Machine Co. v. Cole, 62 Cal. 318. The order appealed from should be reversed, with directions to the court below to grant appellant’s said motion.
+We concur: Chipman, C.; Gray, C.
+PER CURIAM.
+For the reasons given in the foregoing opinion the order appealed from is reversed, with directions to the court below to grant appellant’s said motion.
