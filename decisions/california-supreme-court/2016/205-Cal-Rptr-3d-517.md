@@ -6,6 +6,7 @@ citations: ["205 Cal. Rptr. 3d 517", "376 P.3d 639"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["WILSON (Derrick Lynn) on H.C."]
 source_url: "https://static.case.law/cal-rptr-3d/205/cases/0517-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -15,4 +16,14 @@ cites_cases: ["136 S.Ct. 718"]
 
 # In re Wilson
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+WILSON (Derrick Lynn) on H.C.
+No. S224745.
+Supreme Court of California
+Aug. 10, 2016.
+Dismissed and remanded to CA 2/7.
+In light of the decision in Montgomery v. Louisiana (2016) --- U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599, review in the above-entitled matter is dismissed. (Cal. Rules of Court, rule 8.528(b)(1).)
+CANTIL-SAKAUYE, C.J., WERDEGAR, CHIN, CORRIGAN, LIU, CUÉLLAR, and KRUGER, JJ., concur.
