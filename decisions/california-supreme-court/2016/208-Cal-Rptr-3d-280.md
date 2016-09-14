@@ -6,6 +6,7 @@ citations: ["208 Cal. Rptr. 3d 280", "381 P.3d 227"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Votes: Cantil-Sakauye, C.J., Werdegar, Chin, Liu, Cuéllar and Kruger, JJ."]
 parties: ["PEOPLE\nv.\nDUNN"]
 source_url: "https://static.case.law/cal-rptr-3d/208/cases/0280-01.json"
@@ -15,4 +16,15 @@ cap_id: 12513277
 
 # People v. Dunn
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+PEOPLE
+v.
+DUNN
+S236282
+Supreme Court of California
+September 14, 2016
+The petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in Harris v. Superior Court, S231489 (see Cal. Rules of Court, rule 8.512(d)(2) ), or pending further order of the court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court. Corrigan, J., was absent and did not participate.
+Votes: Cantil-Sakauye, C.J., Werdegar, Chin, Liu, Cuéllar and Kruger, JJ.
