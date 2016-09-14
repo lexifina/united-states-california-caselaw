@@ -1,0 +1,19 @@
+---
+court: "California Supreme Court"
+docket: "S214648"
+decided: "2016-09-14"
+citations: ["208 Cal. Rptr. 3d 279", "381 P.3d 226"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Votes: Cantil-Sakauye, C.J., Werdegar, Chin, Liu, Cuéllar and Kruger, JJ.", "Corrigan, J., was absent and did not participate."]
+parties: ["PEOPLE\nv.\nLESTER"]
+source_url: "https://static.case.law/cal-rptr-3d/208/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12513274
+cites_cases: ["203 Cal.Rptr.3d 622", "373 P.3d 435", "63 Cal.4th 646"]
+---
+
+# People v. Lester
+
+
