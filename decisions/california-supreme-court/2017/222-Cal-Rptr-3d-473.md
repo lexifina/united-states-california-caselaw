@@ -6,6 +6,7 @@ citations: ["222 Cal. Rptr. 3d 473", "401 P.3d 490"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ."]
 parties: ["PEOPLE\nv.\nS.C. (WALKER)"]
 source_url: "https://static.case.law/cal-rptr-3d/222/cases/0473-01.json"
@@ -15,4 +16,15 @@ cap_id: 12513757
 
 # People v. S.C.
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+PEOPLE
+v.
+S.C. (WALKER)
+S243072
+Supreme Court of California
+SEPTEMBER 13, 2017
+The petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in People v. Superior Court (Lara), S241231 and People v. Cervantes, S241323 (see Cal. rules of Court, rule 8.512(d)(2) ), or pending further order of the court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court.
+Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ.
