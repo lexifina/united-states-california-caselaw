@@ -6,6 +6,7 @@ citations: ["225 Cal. Rptr. 3d 118", "405 P.3d 237"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Corrigan, J., was absent and did not participate.", "Votes: Cantil-Sakauye, C.J., Chin, Liu, Cuéllar and Kruger, JJ."]
 parties: ["FILMON.COM\nv.\nDOUBLEVERIFY"]
 source_url: "https://static.case.law/cal-rptr-3d/225/cases/0118-01.json"
@@ -15,4 +16,16 @@ cap_id: 12513950
 
 # Filmon.com. v. Doubleverify
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+FILMON.COM
+v.
+DOUBLEVERIFY
+S244157
+Supreme Court of California
+November 15, 2017
+Petition for review granted.
+Corrigan, J., was absent and did not participate.
+Votes: Cantil-Sakauye, C.J., Chin, Liu, Cuéllar and Kruger, JJ.
