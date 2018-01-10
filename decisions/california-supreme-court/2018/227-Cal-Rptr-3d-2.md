@@ -6,6 +6,7 @@ citations: ["227 Cal. Rptr. 3d 2", "408 P.3d 406"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ."]
 parties: ["CHRISTENSEN\nv.\nLIGHTBOURNE"]
 source_url: "https://static.case.law/cal-rptr-3d/227/cases/0002-01.json"
@@ -15,4 +16,15 @@ cap_id: 12514094
 
 # Christensen v. Lightbourne
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+CHRISTENSEN
+v.
+LIGHTBOURNE
+S245395
+Supreme Court of California
+January 10, 2018
+Petition for review granted.
+Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ.
