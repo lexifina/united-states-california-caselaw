@@ -1,0 +1,19 @@
+---
+court: "California Supreme Court"
+docket: "S243387"
+decided: "2018-07-25"
+citations: ["235 Cal. Rptr. 3d 841", "421 P.3d 1131"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ."]
+parties: ["PEOPLE\nv.\nMOORE"]
+source_url: "https://static.case.law/cal-rptr-3d/235/cases/0841-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12514718
+cites_cases: ["4 Cal.5th 1100"]
+---
+
+# People v. Moore
+
+
