@@ -1,0 +1,18 @@
+---
+court: "California Supreme Court"
+docket: "S249895"
+decided: "2018-08-22"
+citations: ["237 Cal. Rptr. 3d 178", "424 P.3d 268"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ."]
+parties: ["ABBOTT LABORATORIES\nv.\nS.C. (Rackauckas)"]
+source_url: "https://static.case.law/cal-rptr-3d/237/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12514805
+---
+
+# Abbott Labs. v. S.C.
+
+
