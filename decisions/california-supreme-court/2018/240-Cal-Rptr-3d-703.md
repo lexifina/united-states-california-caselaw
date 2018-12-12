@@ -6,6 +6,7 @@ citations: ["240 Cal. Rptr. 3d 703", "430 P.3d 1179"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ."]
 parties: ["SEROVA\nv.\nSONY MUSIC ENTERTAINMENT"]
 source_url: "https://static.case.law/cal-rptr-3d/240/cases/0703-01.json"
@@ -15,4 +16,15 @@ cap_id: 12515096
 
 # Serova v. Sony Music Entm't
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+SEROVA
+v.
+SONY MUSIC ENTERTAINMENT
+S251822
+Supreme Court of California.
+DECEMBER 12, 2018
+The petition for review is granted. Further action in this matter is deferred pending the consideration and disposition of FilmOn.com v. DoubleVerify, Inc., S244157 (see Cal. Rules of Court, rule 8.512(d)(2) ), or pending further order of the court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court.
+Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar and Kruger, JJ.
