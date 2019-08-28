@@ -6,6 +6,7 @@ citations: ["251 Cal. Rptr. 3d 701", "447 P.3d 669"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["PEOPLE\nv.\nGUTIERREZ"]
 source_url: "https://static.case.law/cal-rptr-3d/251/cases/0701-02.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -14,4 +15,15 @@ cap_id: 12515876
 
 # People v. Gutierrez
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+PEOPLE
+v.
+GUTIERREZ
+S252532
+Supreme Court of California.
+AUGUST 28, 2019
+Dismissed and remanded to CA 1/4. Review in the above-captioned matter, which was granted and held for People v. Arredondo (S233582), is hereby dismissed. ( Cal. Rules of Court, rule 8.528(b)(1).)
+Votes: Cantil-Sakauye, C.J., Chin, Corrigan, Liu, Cuéllar, Kruger and Groban, JJ.
