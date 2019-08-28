@@ -1,0 +1,17 @@
+---
+court: "California Supreme Court"
+docket: "S252532"
+decided: "2019-08-28"
+citations: ["251 Cal. Rptr. 3d 701", "447 P.3d 669"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE\nv.\nGUTIERREZ"]
+source_url: "https://static.case.law/cal-rptr-3d/251/cases/0701-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12515876
+---
+
+# People v. Gutierrez
+
+
